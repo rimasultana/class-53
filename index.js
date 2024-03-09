@@ -1,0 +1,9 @@
+
+// syntex
+
+class className{
+    constructor(){
+
+    }
+
+}
